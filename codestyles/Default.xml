@@ -5,6 +5,7 @@
       <option name="INDENT_SIZE" value="2" />
     </value>
   </option>
+  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <codeStyleSettings language="Groovy">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
