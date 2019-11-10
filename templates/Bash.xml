@@ -1,0 +1,12 @@
+<templateSet group="Bash">
+  <template name="she_backup" value="#!$ENV$ $BASH$&#10;$END$" description="shebang line_backup" toReformat="false" toShortenFQNames="false">
+    <variable name="ENV" expression="" defaultValue="&quot;/usr/bin/env&quot;" alwaysStopAt="false" />
+    <variable name="BASH" expression="enum(&quot;bash&quot;,&quot;sh&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Bash" value="true" />
+    </context>
+  </template>
+  <template name="she" value="#!/bin/bash" description="shebang line" toReformat="false" toShortenFQNames="false">
+    <context />
+  </template>
+</templateSet>
