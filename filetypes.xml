@@ -5,6 +5,7 @@
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping ext="jenkinsfile" type="Groovy" />
       <mapping ext="centos" type="Native" />
+      <mapping pattern="key.pem" type="PLAIN_TEXT" />
       <mapping pattern="groupinfra_ca2" type="PLAIN_TEXT" />
       <mapping pattern="ssh-debug" type="PLAIN_TEXT" />
       <mapping pattern="sergej_rsa" type="PLAIN_TEXT" />
@@ -12,7 +13,6 @@
       <mapping pattern="Dockerfile_rke" type="PLAIN_TEXT" />
       <mapping pattern="backend" type="PLAIN_TEXT" />
       <mapping pattern="OkdJenkinsfile" type="PLAIN_TEXT" />
-      <mapping pattern="status" type="PLAIN_TEXT" />
       <mapping pattern=".gitconfig_work" type="PLAIN_TEXT" />
       <mapping pattern="k8s-prd-bastion-2019" type="PLAIN_TEXT" />
       <mapping pattern="cluster001" type="PLAIN_TEXT" />
@@ -24,6 +24,7 @@
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="backendconfig" type="PLAIN_TEXT" />
       <mapping pattern="testkubeform" type="PLAIN_TEXT" />
+      <mapping pattern=".ansible-lint" type="PLAIN_TEXT" />
       <mapping pattern="template-openshift.yaml" type="PLAIN_TEXT" />
       <mapping pattern="pvs" type="PLAIN_TEXT" />
       <mapping pattern=".gitexcludes" type="PLAIN_TEXT" />
@@ -32,15 +33,15 @@
       <mapping pattern="poc2" type="PLAIN_TEXT" />
       <mapping pattern="poc1" type="PLAIN_TEXT" />
       <mapping pattern=".gitconfig_cndp" type="PLAIN_TEXT" />
-      <mapping pattern="key.pem" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="cluster001_backendconfig" type="PLAIN_TEXT" />
       <mapping pattern="auth" type="PLAIN_TEXT" />
       <mapping pattern="inventory" type="PLAIN_TEXT" />
       <mapping pattern="serial" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="helm_registry_adapter.yaml" type="PLAIN_TEXT" />
-      <mapping pattern=".ansible-lint" type="PLAIN_TEXT" />
+      <mapping pattern="status" type="PLAIN_TEXT" />
       <mapping pattern="OWNERS" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="backup" type="PLAIN_TEXT" />
