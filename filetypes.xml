@@ -35,6 +35,7 @@
       <mapping pattern="key.pem" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="cluster001_backendconfig" type="PLAIN_TEXT" />
+      <mapping pattern="cron" type="PLAIN_TEXT" />
       <mapping pattern="auth" type="PLAIN_TEXT" />
       <mapping pattern="inventory" type="PLAIN_TEXT" />
       <mapping pattern="serial" type="PLAIN_TEXT" />
