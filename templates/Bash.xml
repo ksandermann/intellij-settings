@@ -6,7 +6,5 @@
       <option name="Bash" value="true" />
     </context>
   </template>
-  <template name="she" value="#!/bin/bash" description="shebang line" toReformat="false" toShortenFQNames="false">
-    <context />
-  </template>
+  <template name="she" value="#!/bin/bash" description="shebang line" toReformat="false" toShortenFQNames="false" />
 </templateSet>
