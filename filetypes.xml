@@ -38,9 +38,9 @@
       <mapping pattern="cluster001" type="PLAIN_TEXT" />
       <mapping pattern="template-openshift.yaml" type="PLAIN_TEXT" />
       <mapping pattern="installer_inventory" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="k8s-prd-bastion-2019" type="PLAIN_TEXT" />
       <mapping pattern=".helmignore" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="pvs" type="PLAIN_TEXT" />
       <mapping pattern="-q" type="PLAIN_TEXT" />
       <mapping pattern="bastions" type="PLAIN_TEXT" />
