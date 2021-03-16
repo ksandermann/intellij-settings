@@ -1,0 +1,5 @@
+<application>
+  <component name="GradleSystemSettings">
+    <option name="gradleVmOptions" value="/usr/local/Cellar/gradle/4.10.2" />
+  </component>
+</application>
