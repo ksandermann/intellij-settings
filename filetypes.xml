@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping ext="jenkinsfile" type="Groovy" />
@@ -40,9 +40,9 @@
       <mapping pattern="cluster001" type="PLAIN_TEXT" />
       <mapping pattern="template-openshift.yaml" type="PLAIN_TEXT" />
       <mapping pattern="installer_inventory" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="k8s-prd-bastion-2019" type="PLAIN_TEXT" />
       <mapping pattern=".helmignore" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="pvs" type="PLAIN_TEXT" />
       <mapping pattern="-q" type="PLAIN_TEXT" />
       <mapping pattern="bastions" type="PLAIN_TEXT" />
@@ -54,8 +54,8 @@
       <mapping ext="pkcs12" type="PLAIN_TEXT" />
       <mapping ext="com" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
-      <mapping ext="p8" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
+      <mapping ext="p8" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="cron" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
@@ -69,9 +69,9 @@
       <mapping ext="kubeconfig" type="PLAIN_TEXT" />
       <mapping pattern="setup-k8s-dev-node3.yaml" type="YAML" />
       <mapping pattern="download-certs.yaml" type="YAML" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping pattern="nics.tf" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
     </extensionMap>
   </component>
 </application>
