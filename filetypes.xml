@@ -54,8 +54,8 @@
       <mapping ext="pkcs12" type="PLAIN_TEXT" />
       <mapping ext="com" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
-      <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="p8" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="cron" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
