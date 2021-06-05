@@ -63,6 +63,7 @@
       <mapping ext="backup" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="plan" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="kubeconfig" type="PLAIN_TEXT" />
       <mapping pattern="setup-k8s-dev-node3.yaml" type="YAML" />
