@@ -4,6 +4,7 @@
       <mapping pattern="config_backup_21_11_25" type="AUTO_DETECTED" />
       <mapping pattern="config_backup_21_11_25.yaml" type="AUTO_DETECTED" />
       <mapping pattern="config_backup1111" type="AUTO_DETECTED" />
+      <mapping ext="minimal" type="Dockerfile" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping ext="jenkinsfile" type="Groovy" />
       <mapping ext="tfplan" type="JSON" />
